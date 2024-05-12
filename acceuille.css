@@ -1,4 +1,7 @@
 /* sa c'est pour insérer l'image de fond de l'arrière plan */
+@media only screen and (max-width: 768px) {
+  /* Styles spécifiques pour les écrans de taille maximale de 768px */
+  body {
 
 body{
     height: 100vh;
